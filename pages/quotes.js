@@ -1,0 +1,1 @@
+import quotes from '../public/data/quotes.json'; export default function Quotes() { return (<div><h1 className='text-2xl font-bold'>Quotes</h1><ul>{quotes.map((q, i) => <li key={i}>{q.quote}</li>)}</ul></div>); }

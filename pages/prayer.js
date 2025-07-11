@@ -1,0 +1,1 @@
+export default function Prayer() { return (<div><h1 className='text-2xl font-bold'>Submit Prayer</h1><form><input placeholder='Your Name' className='border p-2 w-full mb-2' /><textarea placeholder='Your Prayer' className='border p-2 w-full' /></form></div>); }

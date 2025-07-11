@@ -1,0 +1,1 @@
+import chapters from '../public/data/chapters.json'; export default function Chapters() { return (<div><h1 className='text-2xl font-bold text-orange-700 mb-4'>Chapters</h1><ul>{chapters.map((c, i) => <li key={i}>{c.title}: {c.content}</li>)}</ul></div>); }

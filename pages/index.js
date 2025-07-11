@@ -1,0 +1,1 @@
+export default function Home() { return (<div><h1 className='text-3xl font-bold text-orange-700'>Om Sai Ram</h1><p>Welcome to Sai Baba Darshan</p></div>); }

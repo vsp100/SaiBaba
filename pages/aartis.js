@@ -1,0 +1,1 @@
+export default function Aartis() { return (<div><h1 className='text-2xl font-bold'>Aartis</h1><iframe width='100%' height='315' src='https://www.youtube.com/embed/nxDSSPtdrk8' title='Sai Aarti' frameBorder='0' allowFullScreen></iframe></div>); }

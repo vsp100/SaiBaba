@@ -1,0 +1,1 @@
+export default function Live() { return (<div><h1 className='text-2xl font-bold'>Live Darshan</h1><iframe width='100%' height='315' src='https://www.youtube.com/embed/live_stream?channel=UC3q7U5fB2blzBwUAZlkhOng' title='Live' frameBorder='0' allowFullScreen></iframe></div>); }
